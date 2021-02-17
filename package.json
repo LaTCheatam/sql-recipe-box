@@ -1,7 +1,7 @@
 {
   "name": "app-academy-recipe-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this project, you will build the Data Access Layer to power a Web application. This means that you will provide all of the SQL that it takes to get data into and from the database. You will do this in SQL files that the application will load and read.",
   "main": "server/index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -24,5 +24,13 @@
   },
   "keywords": [],
   "author": "App Academy Academics <academics@appacademy.io>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaTCheatam/sql-recipe-box.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LaTCheatam/sql-recipe-box/issues"
+  },
+  "homepage": "https://github.com/LaTCheatam/sql-recipe-box#readme"
 }
